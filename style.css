@@ -1,0 +1,54 @@
+.header-logo{
+    
+}
+.fp-logo{
+    height: 10vh;
+    border-right: 2px solid black;
+}
+.left-header{
+    width: 40%;
+}
+.work-section{
+    height: 340px;
+}
+.work-img{
+    height: 340px;
+}
+.inner-left-section{
+    overflow-y: scroll;
+}
+.absensi{
+    height: 175px;
+    background-color: blanchedalmond;
+}
+.icon-menu-absensi{
+    height: 50px;
+}
+.text-pengumuman{
+    background-color: rgb(255, 218, 139) ;
+    color: black;
+    font-weight: 400!important;
+    font-size: 20px;
+}
+.btn-bantuan{
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: orangered;
+}
+.btn-aplikasi{
+    background-color: blanchedalmond;
+}
+.dropdown-toggle{
+    padding: 0!important;
+    font-size: 20px;
+}
+
+.setting{
+    height: 25px;
+
+}
+.work-section{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 28%, rgba(255,253,248,1) 38%, rgba(255,207,105,1) 75%);
+}
